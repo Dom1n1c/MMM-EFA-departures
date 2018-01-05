@@ -37,6 +37,9 @@ http://efa.mvv-muenchen.de/mobile/XSLT_DM_REQUEST
 DING - Donau-Iller-Nahverkehrsverbund
 http://www.ding.eu/mobile/ding2/XSLT_DM_REQUEST
 
+BW - Baden_Württemberg 
+http://www.efa-bw.de/nvbw/XSLT_DM_REQUEST?
+
 traveline south east: Journey Planner
 http://www.travelinesoutheast.org.uk/se/XSLT_DM_REQUEST
 ```
